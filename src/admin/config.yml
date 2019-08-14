@@ -1,6 +1,6 @@
 backend:
   name: github
-  repo: Paperasse/gridsome-starter-netlify-netlifycms-tailwindcss
+  repo: Paperasse/gridsome-tailwindcss-example
 
 media_folder: "static/images/uploads"
 public_folder: "/images/uploads"
