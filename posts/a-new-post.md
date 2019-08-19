@@ -6,4 +6,4 @@ date: 2019-03-25T15:23:33.056Z
 tags:
   - hello
 ---
-This is awesome.
+This is awesome. Updated the body with Netlify CMS. Wow!
